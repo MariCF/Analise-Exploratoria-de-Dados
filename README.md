@@ -7,11 +7,9 @@
 ter outra visão sobre o retrato da desigualdade racial no Brasil.
 
 ### Resumo do Projeto 📝️
-🔵 A análise partiu das seguintes perguntas: </br>
-Será que a profissão dos pais e mães tem relação com o desempenho da (o) candidata (a)? </br>
-E o grau de escolaridade será que tem relevância? </br>
-Não há respostas absolutas aqui mas garanto que haverá muita reflexão ao longo das análises feitas.</br>
-Recomendo um olhar mais realístico para esta leitura!</br>
+🔵 No presente notebook, será feito uma análise para identificar como a população preta da Região Norte se saiu na Redação do ENEM 2019.Será que a profissão dos pais e mães tem relação com o desempenho da (o) candidata (a)? E o grau de escolaridade será que tem relevância? Não há respostas absolutas aqui mas garanto que haverá muita reflexão ao longo das análises feitas. Escolhi como foco na análise, a nota de Redação pois acredito que a seja um combo de toda as outras matérias pois trabalha interpretação de texto, raciocínio lógico e conhecimentos gerais e principalmente sobre a realidade dos candidatos. Pois se você parar para pensar, alguns temas propostos podem se tornar desiguais perante uma pessoa que sabe falar sobre "Manipulação do comportamento do usuário pelo controle de dados na internet"(2018) tendo internet em casa do que uma pessoa que não tem, por exemplo. 
+<b> Recomendo um olhar mais realístico para esta leitura!</b>
+
 
 </p>
 
