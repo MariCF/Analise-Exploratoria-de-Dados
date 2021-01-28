@@ -3,7 +3,8 @@
 
  
 ### Descrição 📝️
-🔵 Projeto desenvolvido na imersão de dados da Alura. Nesse projeto, fiz uma análise exploratória de dados usando o base de dados do ENEM 2019 (Disponível no site do INEP) focando na nota de redação da população que se autodeclarou preta, especificamente na região norte do Brasil. Foi trabalho bastante descobridor, não só resgatei tudo que sabia de python mas como foi um projeto que despertou em mim, problemas na nossa sociedade que passam despercebidos.
+🔵 Projeto desenvolvido na imersão de dados da Alura. Nesse projeto, fiz uma análise exploratória de dados usando o base de dados do ENEM 2019 (Disponível no site do INEP) focando na nota de redação da população que se autodeclarou preta, especificamente na região norte do Brasil. Foi um trabalho bastante enriquecedor, não só resgatei tudo que sabia de python mas como foi um projeto que despertou em mim, problemas na nossa sociedade que passam despercebidos e ter um contato mais de perto e analisar esses dados, me fez 
+ter outra visão sobre o retrato da desigualdade racial no Brasil.
 
 ### Resumo do Projeto 📝️
 🔵 A análise partiu das seguintes perguntas: </br>
