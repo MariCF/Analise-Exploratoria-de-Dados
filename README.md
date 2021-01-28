@@ -23,11 +23,17 @@ ter outra visão sobre o retrato da desigualdade racial no Brasil.
  
  
 </p>
+
+<h5 align="left">Não carregou no git? Acesse pelo Google Colab 😁 </h5>
+<p align="left">
+<a href="https://colab.research.google.com/drive/17N_IoKGwqhebyy4ixFrLy_2YThsydo0e?authuser=1#scrollTo=Eg69-ki9toSf" target="blank"><img align="center" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Clara Ferreira" height="40" width="40" /></a>
+
+
 <h5 align="left">Vamos bater um papo ? Acesse meu linkedin 😁 </h5>
 <p align="left">
 <a href="https://www.linkedin.com/in/mariaclaraferreira/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Clara Ferreira" height="40" width="40" /></a>
-
-
+ 
+ 
 
  
  Adaptado do READ.ME do meu Dev favorito [Carlos Gustavo](https://github.com/carlosgustavo) 👨🏻‍💻
